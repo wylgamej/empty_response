@@ -1,0 +1,12 @@
+{
+	"name": "empty_response",
+	"type": "module",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/wylgamej/empty_response.git",
+	"license": "MIT",
+	"dependencies": {
+		"node-adodb": "^5.0.3",
+		"readline-sync": "^1.4.10"
+	}
+}
